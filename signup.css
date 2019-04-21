@@ -1,0 +1,69 @@
+*{
+	margin:0px;
+	padding: 0px;
+
+}
+body{
+	background-image: url("bg1.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: new time roman;
+
+}
+.container{
+	background-color: black;
+}
+h1{
+	font-size: 35px;
+	color:lightblue;
+
+}
+.input-group{
+	margin-top:15px;
+
+}
+.input-group-addon
+{
+	background:transparent;
+	color:white;
+	padding:15px;
+	font-size: 20px;
+	border-radius:0px;
+	border:0px;
+	border-bottom:1px solid gray; 
+}
+.form-control
+{
+	background:transparent;
+	color:white;
+	padding:28px;
+	font-size: 24px;
+	border-radius:0px;
+	border:0px;
+	border-bottom: 1 px solid gray;
+}
+.btn-info
+{
+	margin-top:40px;
+	margin-bottom: 30px;
+	float:right;
+	width:190px;
+	font-size:19px; 
+}
+h2
+{
+	font-size: 35px;
+	color: gray;
+	margin-top: 70px;
+	margin-left: 50px;
+
+}
+.btn-default
+{
+	background:transparent;
+	margin-top:40px;
+	margin-left:50px;
+	width:180px;
+	font-size:18px; 
+	color: white;
+}
